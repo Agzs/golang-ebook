@@ -1,6 +1,8 @@
 
 from : https://github.com/astaxie/build-web-application-with-golang
 
+reference: https://books.studygolang.com/The-Golang-Standard-Library-by-Example/
+
 # Multiple Language Versions
 
 
