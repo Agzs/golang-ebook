@@ -10,15 +10,6 @@ reference: https://books.studygolang.com/The-Golang-Standard-Library-by-Example/
 * [中文](zh/preface.md)
 
 
-# Donate
-
-English Donate:[donate](http://beego.me/donate)
-
-## Community
-QQ群：148647580
-
-BBS：[http://gocn.io/](http://gocn.io/)
-
 ## Contributors
 
 - See [contributors page](https://github.com/astaxie/build-web-application-with-golang/graphs/contributors) for full list of contributors.
